@@ -12,6 +12,7 @@ Our name isn't NFTICKET.
 **DO**
 - NFTickit
 - NFTick.it
+- NFTICKIT
 
 **DON'T**
 - ~~NFTICKIT~~
@@ -47,4 +48,4 @@ Our name isn't NFTICKET.
 ![Logo for Dark Background](logo_for_dark_bg.png)
 ![Logo for Bright Background](logo_for_bright_bg.png)
 ![Logo with Background](logo_with_background.png)
-![Logo with Background Rounded](logo_with_background_rounded.png)
+![App Icon](app_icon.png)
