@@ -4,8 +4,12 @@ Our brand toolkit. All documents here are how we use to express the NFTickit bra
 
 ## Guidelines
 It’s **NFTickit**. Do not abbreviate or use spaces in the name.
+It's simple, like our app. NFT and Tick-it.
+**NFTickit**
 
 Spell `Tickit` with `IT` from `Information Technology`.
+Tick. It.
+**NFTICKIT**
 
 Our name isn't NFTICKET.
 
@@ -15,7 +19,9 @@ Our name isn't NFTICKET.
 - NFTICKIT
 
 **DON'T**
-- ~~NFTICKIT~~
+- ~~NFT Tickit~~
+- ~~NFT T Tickit~~
+- ~~NFTTTickit~~
 - ~~NFTicket~~
 - ~~nftickit~~
 - ~~NfTiCkIt~~
