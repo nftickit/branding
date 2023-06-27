@@ -8,7 +8,7 @@ It's simple, like our app. NFT and Tick-it.
 **NFTickit**
 
 Spell `Tickit` with `IT` from `Information Technology`.
-Tick. It.
+NF. Tick. It.
 **NFTICKIT**
 
 Our name isn't NFTICKET.
