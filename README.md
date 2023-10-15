@@ -52,7 +52,20 @@ Our name isn't NFTICKET. Or NFT Ticket.
 ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) White: `#FFFFFF`
 
 ## Logo
-<img src="black.png" width="25%" height="25%"><img src="white.png" width="25%" height="25%"><img src="black_with_glasses.png" width="25%" height="25%"><img src="white_with_glasses.png" width="25%" height="25%">
+
+### Colorful
+<img src="logo/colorful/black.png" width="15%" height="15%">  <img src="logo/colorful/white.png" width="15%" height="15%">  <img src="logo/colorful/black_with_glasses.png" width="15%" height="15%">  <img src="logo/colorful/white_with_glasses.png" width="15%" height="15%">
+
+### All Black
+<img src="logo/all_black/all_black.png" width="15%" height="15%">  <img src="logo/all_black/all_black_with_glasses.png" width="15%" height="15%">
+
+### All White
+<img src="logo/all_white/all_white.png" width="15%" height="15%">  <img src="logo/all_white/all_white_with_glasses.png" width="15%" height="15%">
 
 ## Brand
-<img src="plugue.png" width="25%" height="25%"><img src="plugue_the_icon.png" width="25%" height="25%">
+
+### Plugue The Pug
+<img src="brand/plugue.png" width="15%" height="15%">
+
+### Plugue: The Icon
+<img src="brand/plugue_the_icon.png" width="15%" height="15%">
