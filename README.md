@@ -1,26 +1,28 @@
-# NFTickit Branding
+# 🎨 NFTICKIT Branding
 
-Our brand toolkit. All documents here are how we use to express the NFTickit brand.
+Our brand toolkit. All documents here are how we use to express the NFTICKIT brand.
 
 ## Guidelines
-It’s **NFTickit**. Do not abbreviate or use spaces in the name.
+It’s **NFTICKIT**. Do not abbreviate or use spaces in the name.
 It's simple, like our app. NFT and Tick-it.
-**NFTickit**
+**NFTICKIT**
 
 Spell `Tickit` with `IT` from `Information Technology`.
 NF. Tick. It.
 **NFTICKIT**
 
-Our name isn't NFTICKET.
+Our name isn't NFTICKET. Or NFT Ticket.
 
 **DO**
-- NFTickit
-- NFTick.it
 - NFTICKIT
+- NFTick.it
+- NFTickit
 
 **DON'T**
 - ~~NFT Tickit~~
 - ~~NFT T Tickit~~
+- ~~NFT Ticket~~
+- ~~NFTicks~~
 - ~~NFTTTickit~~
 - ~~NFTicket~~
 - ~~nftickit~~
@@ -50,8 +52,7 @@ Our name isn't NFTICKET.
 ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) White: `#FFFFFF`
 
 ## Logo
+<img src="black.png" width="25%" height="25%"><img src="white.png" width="25%" height="25%"><img src="black_with_glasses.png" width="25%" height="25%"><img src="white_with_glasses.png" width="25%" height="25%">
 
-![Logo for Dark Background](logo_for_dark_bg.png)
-![Logo for Bright Background](logo_for_bright_bg.png)
-![Logo with Background](logo_with_background.png)
-![App Icon](app_icon.png)
+## Brand
+<img src="plugue.png" width="25%" height="25%"><img src="plugue_the_icon.png" width="25%" height="25%">
